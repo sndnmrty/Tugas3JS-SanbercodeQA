@@ -1,0 +1,15 @@
+{
+  "name": "tugas-3-sanbercode",
+  "version": "1.0.0",
+  "description": "Tugas 3 QA Sanbercode",
+  "main": "soal1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sonia Dian Amartya Harsono Putri",
+  "license": "ISC",
+  "dependencies": {
+    "math-sqrt": "^1.0.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
